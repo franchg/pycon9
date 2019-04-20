@@ -11,4 +11,4 @@ PyInstaller==3.3.1
 PyQt5==5.10.1
 scons==3.0.1
 sip==4.19.8
-stickytape==0.1.12
+stickytape==0.1.13
