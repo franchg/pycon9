@@ -3,4 +3,4 @@
 - **SLIDES:** [franch_pycon9_ITA.pdf](franch_pycon9_ITA.pdf)
 - **VIDEO:** https://youtu.be/OsyG2WQ_5V8
 - **[CODE](code)** has some sample python scripts
-- **TOOLS USAGE EXAMPLE:** in folders [nuitka](nuitka), [pyinstaller](pyinstaller) and [stickytape](stikcytape)
+- **TOOLS USAGE EXAMPLE:** in folders [nuitka](nuitka), [pyinstaller](pyinstaller) and [stickytape](stickytape)
