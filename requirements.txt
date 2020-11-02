@@ -3,7 +3,7 @@ future==0.16.0
 imageio==2.3.0
 macholib==1.9
 Nuitka==0.5.30
-numpy==1.14.3
+numpy==1.19.4
 pefile==2017.11.5
 Pillow==5.1.0
 pkg-resources==0.0.0
