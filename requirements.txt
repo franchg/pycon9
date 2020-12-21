@@ -2,7 +2,7 @@ altgraph==0.15
 future==0.16.0
 imageio==2.3.0
 macholib==1.9
-Nuitka==0.5.30
+Nuitka==0.6.10.2
 numpy==1.14.3
 pefile==2017.11.5
 Pillow==5.1.0
